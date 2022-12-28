@@ -1,14 +1,17 @@
-/*
- *  Convenience functions to access app info.
- *  Dump key app paths and metadata:
- *      appInfo()
- *
- *  Print contents of Info.plist:
- *      infoDictionary()
- *
- *  Query Info.plist by key:
- *      infoLookup("NSAppTransportSecurity")
- *
+/* 
+    Description: iOS Application Static Analysis
+    Usage: frida -U -f XXX -l ios-application-static-analysis2.js
+    Credit: Unknown
+
+    Convenience functions to access app info.
+    Dump key app paths and metadata:
+        appInfo()
+
+    Print contents of Info.plist:
+        infoDictionary()
+ 
+    Query Info.plist by key:
+        infoLookup("NSAppTransportSecurity")
  */
 
 function dictFromNSDictionary(nsDict) 

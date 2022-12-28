@@ -1,6 +1,6 @@
 /* 
     Description: Android Proxy Add
-    Usage: frida -U -f XXXX -l android-location-spoofing.js
+    Usage: frida -U -f XXXX -l android_proxy-add.js
     Credit: iddoeldor
 
     Links:
