@@ -1,6 +1,6 @@
 /* 
     Description: ReactNatice Emulator Detection Bypass frida script
-    Usage: frida -U -f XXXX -l react-native-bypass-emulator-detection.js
+    Usage: frida -U -f XXXX -l react-native-emulator-detection-bypass.js
     Credit: https://twitter.com/KhantZero
 
     Link:

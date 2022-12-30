@@ -1,6 +1,6 @@
 /* 
-    Description: Universal Android Debugging Bypass frida script
-    Usage: frida -U -f XXXX -l android-debugging-bypass.js
+    Description: Android ADB Detection Bypass frida script
+    Usage: frida -U -f XXXX -l android-adb-detection-bypass.js
     Credit: meerkati
 
     Useful when bypassing USB debugging detection on Android!

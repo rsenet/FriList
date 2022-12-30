@@ -1,6 +1,6 @@
 /* 
     Description: Android isDebuggerConnected Bypass frida script
-    Usage: frida -U -f XXXX -l android-debugger-bypass.js
+    Usage: frida -U -f XXXX -l android-debug-bypass.js
     Credit: Raphkitue
 
     Link:
