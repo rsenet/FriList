@@ -234,5 +234,6 @@ Feel free to PR if you want to add new scripts to the list. New scripts will hav
 <summary>Other</summary>
 
 * [android-injector.js](https://github.com/rsenet/FriList/blob/main/04_Other/android-injector.js)
+* [android-stetho-loader.js](https://github.com/rsenet/FriList/blob/main/04_Other/android-stetho-loader.js)
 </details>
 
