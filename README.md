@@ -25,20 +25,19 @@ Feel free to PR if you want to add new scripts to the list. New scripts will hav
 <details>
 <summary>Observer</summary>
 
-* **Cookies**
-
-	* [android-cookie-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Cookies/android-cookie-observer.js)
-	* [ios-binarycookies-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Cookies/ios-binarycookies-observer.js)
-
 * **Crypto**
 
 	* [android-aes-decrypt-no-iv.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Crypto/android-aes-decrypt-no-iv.js)
 	* [android-aesinfo-and-hashing-decryptor.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Crypto/android-aesinfo-and-hashing-decryptor.js)
 	* [android-aesinfo-decryptor.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Crypto/android-aesinfo-decryptor.js)
+	* [android-crypto-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Crypto/android-crypto-observer.js)
 	* [android-hashing-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Crypto/android-hashing-observer.js)
 	* [android-java-crypto-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Crypto/android-java-crypto-observer.js)
+	* [android-pbe-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Crypto/android-pbe-observer.js)
+	* [android-random-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Crypto/android-random-observer.js)
 	* [ios-intercept-crypto.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Crypto/ios-intercept-crypto.js)
 	* [ios-intercept-crypto2.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Crypto/ios-intercept-crypto2.js)
+
 
 * **DeepLink & UrlScheme**
 
@@ -46,23 +45,12 @@ Feel free to PR if you want to add new scripts to the list. New scripts will hav
 	* [ios-url-scheme-dumper.js](https://github.com/rsenet/FriList/blob/main/01_Observer/DeepLink_UrlScheme/ios-url-scheme-dumper.js)
 	* [ios-url-scheme-fuzzing.js](https://github.com/rsenet/FriList/blob/main/01_Observer/DeepLink_UrlScheme/ios-url-scheme-fuzzing.js)
 
-* **FileSystem**
-
-	* [android-filesystem-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/FileSystem/android-filesystem-observer.js)
-	* [android-filesystem-observer2.js](https://github.com/rsenet/FriList/blob/main/01_Observer/FileSystem/android-filesystem-observer2.js)
-
-* **KeyboardCache**
-
-	* [ios-keyboard-cache-checker.js](https://github.com/rsenet/FriList/blob/main/01_Observer/KeyboardCache/ios-keyboard-cache-checker.js)
 
 * **Library**
 
 	* [android-library-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Library/android-library-observer.js)
+	* [android-library-observer2.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Library/android-library-observer2.js)
 
-* **Log**
-
-	* [android-log-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Log/android-log-observer.js)
-	* [ios-nslog-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Log/ios-nslog-observer.js)
 
 * **Network**
 
@@ -87,29 +75,64 @@ Feel free to PR if you want to add new scripts to the list. New scripts will hav
 		* [ios-tls-keylogger-ios13.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Network/TLS/ios-tls-keylogger-ios13.js)
 		* [ios-tls-keylogger-ios14.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Network/TLS/ios-tls-keylogger-ios14.js])
 
-* **Pasteboard**
+	* **WebInspector**
 
-	* [ios-pasteboard-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Pasteboard/ios-pasteboard-observer.js)
+		* [ios-webinspector-enable.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Network/WebInspector/ios-webinspector-enable.js)
 
-* **Plist**
 
-	* [ios-read-nsuserdefaults.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Plist/ios-read-nsuserdefaults.js)
-	* [ios-read-plist-file.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Plist/ios-read-plist-file.js)
+* **Storage**
 
-* **SharedPreferences**
+	* **Cookies**
 
-	* [android-encryptedsharedpreferences-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/SharedPreferences/android-encryptedsharedpreferences-observer.js)
-	* [android-sharedpreferences-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/SharedPreferences/android-sharedpreferences-observer.js)
+		* [android-cookie-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/Cookies/android-cookie-observer.js)
+		* [ios-binarycookies-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/Cookies/ios-binarycookies-observer.js)
 
-* **SQLite**
 
-	* [android-sqlite-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/SQLite/android-sqlite-observer.js)
-	* [android-sqlitecipher-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/SQLite/android-sqlitecipher-observer.js)
-	* [ios-sqlite3-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/SQLite/ios-sqlite3-observer.js)
+	* **FileSystem**
 
-* **WebInspector**
+		* [android-filesystem-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/FileSystem/android-filesystem-observer.js)
+		* [android-filesystem-observer2.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/FileSystem/android-filesystem-observer2.js)
 
-	* [ios-webinspector-enable.js](https://github.com/rsenet/FriList/blob/main/01_Observer/WebInspector/ios-webinspector-enable.js)
+
+	* **KeyboardCache**
+
+		* [ios-keyboard-cache-checker.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/KeyboardCache/ios-keyboard-cache-checker.js)
+
+
+	* **Keystore_keychain**
+
+		* [android-keystore-monitor.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/Keystore_keychain/android-keystore-monitor.js)
+		* [ios-keychain-monitor.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/Keystore_keychain/ios-keychain-monitor.js)
+
+
+	* **Log**
+
+		* [android-log-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/Log/android-log-observer.js)
+		* [ios-nslog-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/Log/ios-nslog-observer.js)
+
+
+	* **Pasteboard**
+
+		* [ios-pasteboard-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/Pasteboard/ios-pasteboard-observer.js)
+
+
+	* **Plist**
+
+		* [ios-read-nsuserdefaults.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/Plist/ios-read-nsuserdefaults.js)
+		* [ios-read-plist-file.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/Plist/ios-read-plist-file.js)
+
+
+	* **SharedPreferences**
+
+		* [android-encryptedsharedpreferences-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/SharedPreferences/android-encryptedsharedpreferences-observer.js)
+		* [android-sharedpreferences-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/SharedPreferences/android-sharedpreferences-observer.js)
+
+
+	* **SQLite**
+
+		* [android-sqlite-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/SQLite/android-sqlite-observer.js)
+		* [android-sqlitecipher-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/SQLite/android-sqlitecipher-observer.js)
+		* [ios-sqlite3-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/SQLite/ios-sqlite3-observer.js)
 
 </details>
 
@@ -120,6 +143,7 @@ Feel free to PR if you want to add new scripts to the list. New scripts will hav
 
 	* [android-biometric-bypass-android11.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/Biometric/android-biometric-bypass-android11.js)
 	* [ios-biometric-bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/Biometric/ios-biometric-bypass.js)
+	* [ios-touchid-bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/Biometric/ios-touchid-bypass.js)
 
 * **CertificatePinning**
 
@@ -134,17 +158,19 @@ Feel free to PR if you want to add new scripts to the list. New scripts will hav
 	* [flutter-pinning-bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/CertificatePinning/flutter-pinning-bypass.js)
 	* [flutter-pinning-bypass2.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/CertificatePinning/flutter-pinning-bypass2.js)
 	* [flutter-tls1-verification-bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/CertificatePinning/flutter-tls1-verification-bypass.js)
-	* [ios-pinning-bypass-10-11.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/CertificatePinning/ios-pinning-bypass-10-11.js)
+	* [ios-pinning-bypass-10.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/CertificatePinning/ios-pinning-bypass-10.js)
+	* [ios-pinning-bypass-11.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/CertificatePinning/ios-pinning-bypass-11.js)
 	* [ios-pinning-bypass-12.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/CertificatePinning/ios-pinning-bypass-12.js)
 	* [ios-pinning-bypass-13.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/CertificatePinning/ios-pinning-bypass-13.js)
 	* [ios-trustkit-pinning-bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/CertificatePinning/ios-trustkit-pinning-bypass.js)
 	* [phonegap-pinning-bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/CertificatePinning/phonegap-pinning-bypass.js)
 
-* **DebugMode**
+* **DebugMode_Emulator**
 
-	* [android-debugging-bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/DebugMode/android-debugging-bypass.js)
-	* [android-debugmode-bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/DebugMode/android-debugmode-bypass.js)
-	* [react-native-bypass-emulator-detection.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/DebugMode/react-native-bypass-emulator-detection.js)
+	* [android-adb-detection-bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/DebugMode_Emulator/android-adb-detection-bypass.js)
+	* [android-debug-bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/DebugMode_Emulator/android-debug-bypass.js)
+	* [android-emulator-detection-bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/DebugMode_Emulator/android-emulator-detection-bypass.js)
+	* [react-native-emulator-detection-bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/DebugMode_Emulator/react-native-emulator-detection-bypass.js)
 
 * **FlagSecure**
 
@@ -176,6 +202,7 @@ Feel free to PR if you want to add new scripts to the list. New scripts will hav
 
 	* [android-anti-frida-exposed-detection-bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/android-anti-frida-exposed-detection-bypass.js)
 	* [android-sdk-version-change.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/android-sdk-version-change.js)
+	* [android-system_exit_bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/android-system_exit_bypass.js)
 	* [ios-custom-keyboard-allowed.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/ios-custom-keyboard-allowed.js)
 
 </details>
