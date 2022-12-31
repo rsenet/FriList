@@ -2,11 +2,6 @@
 
 Collection of useful FRIDA Mobile Scripts.
 
-Feel free to PR if you want to add new scripts to the list. New scripts will have to respect the nomenclature currently used
-
-*Almost none of his scripts are mine. If there is any mistake on the credits of a script, please contact me*
-
-
 ```shell
     / _  |   Frida 16.0.6 - A world-class dynamic instrumentation toolkit
    | (_| |
@@ -19,6 +14,20 @@ Feel free to PR if you want to add new scripts to the list. New scripts will hav
    . . . .
    . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
 ```
+
+Feel free to PR if you want to add new scripts to the list. New scripts will have to respect the nomenclature currently used:
+
+```shell
+    Description: Small description of the script
+    Usage: frida -U -f XXX -l script-name.js
+    Credit: 
+
+    Link:
+    	https://link
+```
+
+*Almost none of his scripts are mine. If there is any mistake on the credits of a script, please contact me*
+
 
 ## Table of Contents
 
