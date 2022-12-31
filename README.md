@@ -134,6 +134,11 @@ Feel free to PR if you want to add new scripts to the list. New scripts will hav
 		* [android-sqlitecipher-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/SQLite/android-sqlitecipher-observer.js)
 		* [ios-sqlite3-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/SQLite/ios-sqlite3-observer.js)
 
+	* **Other**
+
+		* [android-permissions-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/android-permissions-observer.js)
+		* [android-strings_compare.js](https://github.com/rsenet/FriList/blob/main/01_Observer/android-strings_compare.js)
+
 </details>
 
 <details>
@@ -210,6 +215,7 @@ Feel free to PR if you want to add new scripts to the list. New scripts will hav
 <details>
 <summary>Static Analysis</summary>
 
+* [android-dex_classes_enumeration.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/android-dex_classes_enumeration.js)* [android-get-app-env-info.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/android-get-app-env-info.js)
 * [ios-app-by-display-name.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/ios-app-by-display-name.js)
 * [ios-application-static-analysis.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/ios-application-static-analysis.js)
 * [ios-application-static-analysis2.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/ios-application-static-analysis2.js)
@@ -220,6 +226,7 @@ Feel free to PR if you want to add new scripts to the list. New scripts will hav
 * [ios-find-app-classes-methods.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/ios-find-app-classes-methods.js)
 * [ios-find-app-classes.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/ios-find-app-classes.js)
 * [ios-find-specific-method.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/ios-find-specific-method.js)
+* [ios-get_app_env_info.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/ios-get_app_env_info.js)
 
 </details>
 
