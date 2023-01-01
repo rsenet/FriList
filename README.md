@@ -63,6 +63,11 @@ Feel free to PR if you want to add new scripts to the list. New scripts will hav
 
 * **Network**
 
+	* Bluetooth
+
+		* [android-bluetooth-meta-data-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Network/Bluetooth/android-bluetooth-meta-data-observer.js)
+		* [android-ios-bluetooth-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Network/Bluetooth/android-ios-bluetooth-observer.js)
+		
 	* NSURL
 
 		* [ios-nsurlrequest-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Network/NSURL/ios-nsurlrequest-observer.js)
