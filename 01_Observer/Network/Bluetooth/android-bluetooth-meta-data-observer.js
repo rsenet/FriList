@@ -1,6 +1,13 @@
+/* 
+    Description: Android Bluetooth Meta-data Observer
+    Usage: frida -U -f XXX -l android-bluetooth-meta-data-observer.js
+    Credit: IOActive
+
+    Link:
+        https://github.com/IOActive/BlueCrawl
+*/
+
 /**
-
-
                    GNU LESSER GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
