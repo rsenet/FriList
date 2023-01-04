@@ -229,7 +229,11 @@ Feel free to PR if you want to add new scripts to the list. New scripts will hav
 <details>
 <summary>Static Analysis</summary>
 
-* [android-dex_classes_enumeration.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/android-dex_classes_enumeration.js)* [android-get-app-env-info.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/android-get-app-env-info.js)
+* [android-dex_classes_enumeration.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/android-dex_classes_enumeration.js)
+* [android-find-all-classes-methods.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/android-find-all-classes-methods.js)
+* [android-find-all-classes.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/android-find-all-classes.js)
+* [android-find-specific-classes-methods.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/android-find-specific-classes-methods.js)
+* [android-get-app-env-info.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/android-get-app-env-info.js)
 * [ios-app-by-display-name.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/ios-app-by-display-name.js)
 * [ios-application-static-analysis.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/ios-application-static-analysis.js)
 * [ios-application-static-analysis2.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/ios-application-static-analysis2.js)
