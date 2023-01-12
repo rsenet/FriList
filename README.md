@@ -146,6 +146,7 @@ Feel free to PR if you want to add new scripts to the list. New scripts will hav
 
 		* [android-sqlite-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/SQLite/android-sqlite-observer.js)
 		* [android-sqlitecipher-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/SQLite/android-sqlitecipher-observer.js)
+		* [android-sqlitecipher-password-grabber.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/SQLite/android-sqlitecipher-password-grabber.js)		* [android-sqlitecipher-password-grabber2.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/SQLite/android-sqlitecipher-password-grabber2.js)
 		* [ios-sqlite3-observer.js](https://github.com/rsenet/FriList/blob/main/01_Observer/Storage/SQLite/ios-sqlite3-observer.js)
 
 	* **Other**
