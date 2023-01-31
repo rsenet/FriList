@@ -30,6 +30,8 @@ if (ObjC.available)
         {
             console.log('onMatch: ', wk);
             console.log('URL: ', wk.URL().toString());
+            console.log('javaScriptEnabled:', wk.configuration().preferences().javaScriptEnabled());
+            console.log('hasOnlySecureContent: ', wk.hasOnlySecureContent().toString());
         },
         onComplete: function () 
         {
