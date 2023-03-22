@@ -227,7 +227,9 @@ Feel free to PR if you want to add new scripts to the list. New scripts will hav
 	* [android-anti-frida-exposed-detection-bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/android-anti-frida-exposed-detection-bypass.js)
 	* [android-sdk-version-change.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/android-sdk-version-change.js)
 	* [android-system_exit_bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/android-system_exit_bypass.js)
+	* [ios-change-system-version.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/ios-change-system-version.js)
 	* [ios-custom-keyboard-allowed.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/ios-custom-keyboard-allowed.js)
+
 
 </details>
 
