@@ -252,6 +252,7 @@ Feel free to PR if you want to add new scripts to the list. New scripts will hav
 * [ios-find-app-classes.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/ios-find-app-classes.js)
 * [ios-find-specific-method.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/ios-find-specific-method.js)
 * [ios-get_app_env_info.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/ios-get_app_env_info.js)
+* [ios-find-all-classes.js](https://github.com/rsenet/FriList/blob/main/03_StaticAnalysis/ios-find-all-classes.js)
 
 </details>
 
