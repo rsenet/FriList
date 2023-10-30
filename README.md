@@ -209,6 +209,7 @@ Feel free to PR if you want to add new scripts to the list. New scripts will hav
 
 	* [android-multiple-root-bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/RootDetection/android-multiple-root-bypass.js)
 	* [ios-multiple-jailbreak-bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/RootDetection/ios-multiple-jailbreak-bypass.js)
+	* [ios-multiple-jailbreak-bypass2.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/RootDetection/ios-multiple-jailbreak-bypass2.js)
 	* [ios-simple-jailbreak-bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/RootDetection/ios-simple-jailbreak-bypass.js)
 	* [xamarin-android-multiple-root-bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/RootDetection/xamarin-android-multiple-root-bypass.js)
 	* [xamarin-multiple-jailbreak-bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/RootDetection/xamarin-multiple-jailbreak-bypass.js)
