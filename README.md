@@ -1,5 +1,7 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 
+# About FriList
+
 Collection of useful FRIDA Mobile Scripts.
 
 ```shell
@@ -26,7 +28,7 @@ Feel free to PR if you want to add new scripts to the list. New scripts will hav
     	https://link
 ```
 
-*Almost none of his scripts are mine. If there is any mistake on the credits of a script, please contact me*
+*Almost none of these scripts are mine. If there is any mistake on the credits of a script, please contact me*
 
 
 ## Table of Contents
@@ -274,4 +276,19 @@ Feel free to PR if you want to add new scripts to the list. New scripts will hav
 * [android-injector.js](https://github.com/rsenet/FriList/blob/main/04_Other/android-injector.js)
 * [android-stetho-loader.js](https://github.com/rsenet/FriList/blob/main/04_Other/android-stetho-loader.js)
 </details>
+
+
+## Author
+
+Régis SENET ([rsenet](https://github.com/rsenet))
+
+
+## Contributing
+
+Bug reports and pull requests are welcome on [GitHub](https://github.com/rsenet/FriList).
+
+
+## License
+
+The project is available as open source under the terms of the [GPLv3](https://www.gnu.org/licenses/quick-guide-gplv3.en.html)
 
