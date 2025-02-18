@@ -210,6 +210,7 @@ Feel free to PR if you want to add new scripts to the list. New scripts will hav
 * **RootDetection**
 
 	* [android-multiple-root-bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/RootDetection/android-multiple-root-bypass.js)
+	* [android-multiple-root-bypass2.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/RootDetection/android-multiple-root-bypass2.js)
 	* [android-rootbeer--flutter-bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/RootDetection/android-rootbeer--flutter-bypass.js)
 	* [android-rootbeer--flutter-bypass2.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/RootDetection/android-rootbeer--flutter-bypass2.js)
 	* [android-rootbeer-bypass.js](https://github.com/rsenet/FriList/blob/main/02_SecurityBypass/RootDetection/android-rootbeer-bypass.js)
