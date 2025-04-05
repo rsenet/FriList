@@ -1,35 +1,51 @@
+<a id="readme-top"></a>
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![Unlicense License][license-shield]][license-url]
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
 
-# About FriList
+<br />
+<div align="center">
+  <h3 align="center">FriList</h3>
 
-Collection of useful FRIDA Mobile Scripts.
+  <p align="center">
+    Collection of useful FRIDA Mobile Scripts
+    <br />
+    <a href="https://github.com/rsenet/FriList"><strong>Explore the docs »</strong></a>
+  </p>
+</div>
+
 
 ```shell
-    / _  |   Frida 16.0.6 - A world-class dynamic instrumentation toolkit
-   | (_| |
-    > _  |   Commands:
-   /_/ |_|       help      -> Displays the help system
-   . . . .       object?   -> Display information about 'object'
-   . . . .       exit/quit -> Exit
-   . . . .
-   . . . .   More info at https://frida.re/docs/home/
-   . . . .
-   . . . .   Connected to Android Emulator 5554 (id=emulator-5554)
+ / _  |   Frida 16.0.6 - A world-class dynamic instrumentation toolkit
+| (_| |
+ > _  |   Commands:
+/_/ |_|       help      -> Displays the help system
+. . . .       object?   -> Display information about 'object'
+. . . .       exit/quit -> Exit
+. . . .
+. . . .   More info at https://frida.re/docs/home/
+. . . .
+. . . .   Connected to Android Emulator 5554 (id=emulator-5554)
 ```
 
 Feel free to PR if you want to add new scripts to the list. New scripts will have to respect the nomenclature currently used:
 
 ```shell
-    Description: Small description of the script
-    Usage: frida -U -f XXX -l script-name.js
-    Credit: 
+Description: Small description of the script
+Usage: frida -U -f XXX -l script-name.js
+Credit: 
 
-    Link:
-    	https://link
+Link:
+	https://link
 ```
 
 *Almost none of these scripts are mine. If there is any mistake on the credits of a script, please contact me*
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Table of Contents
 
@@ -278,18 +294,33 @@ Feel free to PR if you want to add new scripts to the list. New scripts will hav
 * [android-stetho-loader.js](https://github.com/rsenet/FriList/blob/main/04_Other/android-stetho-loader.js)
 </details>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Author
 
 Régis SENET ([rsenet](https://github.com/rsenet))
 
-
-## Contributing
-
-Bug reports and pull requests are welcome on [GitHub](https://github.com/rsenet/FriList).
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## License
 
 The project is available as open source under the terms of the [GPLv3](https://www.gnu.org/licenses/quick-guide-gplv3.en.html)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
